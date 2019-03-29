@@ -1,0 +1,9 @@
+br/gov/sp/fatec/service/CursoService.class
+br/gov/sp/fatec/service/CursoServiceImplements.class
+br/gov/sp/fatec/model/Aluno.class
+br/gov/sp/fatec/repository/CursoRepository.class
+br/gov/sp/fatec/repository/AlunoRepository.class
+br/gov/sp/fatec/service/AlunoServiceImplements.class
+br/gov/sp/fatec/model/Curso.class
+br/gov/sp/fatec/service/AlunoService.class
+br/gov/sp/fatec/SpringDataJpaApplication.class

@@ -1,0 +1,9 @@
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/repository/CursoRepository.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/model/Curso.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/service/CursoService.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/SpringDataJpaApplication.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/repository/AlunoRepository.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/service/AlunoService.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/model/Aluno.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/service/AlunoServiceImplements.java
+/home/java/eclipse-workspace-Vaiqda/LabV/Atividade_IBD185/src/main/java/br/gov/sp/fatec/service/CursoServiceImplements.java
